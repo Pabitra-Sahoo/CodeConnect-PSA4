@@ -123,7 +123,7 @@ const customThemes = {
   },
 };
 
-const socket = io("https://codeconnect-psa2.onrender.com", {
+const socket = io("https://codeconnect-psa3.onrender.com", {
   reconnection: true,
   reconnectionAttempts: 5,
   reconnectionDelay: 1000,
@@ -247,7 +247,7 @@ const App = () => {
   // Ping server to keep it alive
   useEffect(() => {
     const pingServer = () => {
-      fetch("https://codeconnect-psa2.onrender.com").catch((err) =>
+      fetch("https://codeconnect-psa3.onrender.com").catch((err) =>
         console.error("Ping failed:", err)
       );
     };
