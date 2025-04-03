@@ -494,7 +494,7 @@ const App = () => {
         </div>
         <div className={`navbar-links ${isMenuOpen ? "active" : ""}`}>
           <a
-            href="https://github.com/Pabitra-Sahoo/CodeConnect/tree/master"
+            href="https://github.com/Pabitra-Sahoo/CodeConnect-PSA4.git"
             className="navbar-link"
           >
             <svg
