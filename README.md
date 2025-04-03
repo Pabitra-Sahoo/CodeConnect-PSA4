@@ -113,8 +113,8 @@ Contributions are always welcome!
 * All users name will show in room who are present you just have to scroll the names to view all participants
 * Copy room id to share with your friend.
 ## 🔮🪄Future Focus:
-   * Run time Input
-   * Existing Code sharing
+   * Run time Input ✔️
+   * Existing Code sharing ✔️
    * Strict / Admin Mode
    * VoIp & Video chat support
    * In-Built Debugger
@@ -122,9 +122,9 @@ Contributions are always welcome!
    * UI & UX Improvements ✔️
    * White board support
    * Active & Inactive feature
-   * More programming language support
+   * More programming language support ✔️
    * File System
-   * Code extracter
+   * Code extracter ✔️
 
 
 
